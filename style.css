@@ -741,13 +741,13 @@ h2 {
   background: center/cover;
 }
 .blogCard:nth-child(1) .blogImg {
-  background-image: url("https://images.unsplash.com/photo-1600518464441-9154a4dea21b?auto=format&fit=crop&w=900&q=80");
+  background-image: url("assets/img/image-16.jfif");
 }
 .blogCard:nth-child(2) .blogImg {
-  background-image: url("https://images.unsplash.com/photo-1586528116493-da8b2b7f9f42?auto=format&fit=crop&w=900&q=80");
+  background-image: url("assets/img/image-18.jfif");
 }
 .blogCard:nth-child(3) .blogImg {
-  background-image: url("https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=900&q=80");
+  background-image: url("assets/img/image-13.jfif");
 }
 .blogBody {
   padding: 17px;
